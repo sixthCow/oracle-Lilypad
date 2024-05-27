@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', 'Roboto', sans-serif;
+  background-color: #10111b;
+  color: rgb(210, 210, 230);
+  padding: 2rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  color: white;
+  font-weight: 700;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.gradient-text {
+  background: linear-gradient(to right, #5fa2ff, #f37d6b); 
+  -webkit-text-fill-color: transparent; 
+  background-clip: text;
+}

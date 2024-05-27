@@ -1,0 +1,8 @@
+.home {
+    height: 90vh;
+    width: 90wh;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
